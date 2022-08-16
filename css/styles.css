@@ -73,7 +73,7 @@ img {
 
 @media (max-width: 400px){
 .navbar-brand {
-    font-size: 5rem;
+    font-size: 3rem;
     font-family: "Ubuntu";
     font-weight: bold;
     color: #ef8172;
@@ -294,7 +294,7 @@ div.smallScreen { display: none; }
 
 
 #main-profile {
-  margin-top: 5%;
+  margin-top: 7%;
 }
 
 
