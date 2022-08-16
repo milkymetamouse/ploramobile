@@ -71,7 +71,7 @@ img {
 
 @media (max-width: 400px){
 .navbar-brand {
-    font-size: 5rem;
+    font-size: 3rem;
     font-family: "Ubuntu";
     font-weight: bold;
     color: #ef8172;
@@ -288,6 +288,10 @@ div.smallScreen { display: none; }
 
 /* Profile */
 /* Profile Section */
+
+#main-profile {
+  padding-top: 5%;
+}
 
 .profile-img {
   border-radius: 90%;
