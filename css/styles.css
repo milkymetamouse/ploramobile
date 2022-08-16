@@ -32,7 +32,7 @@ img {
 .container-fluid {
   background-color: white;
   color:black;
-  padding-top: 1.5%;
+  padding-top: 5%;
 }
 
 @media (max-width: 450px) {
@@ -42,9 +42,25 @@ img {
   padding-top: 1.5%;
 }}
 
+.container {
+  background-color: white;
+  color:black;
+}
+
+@media (max-width: 450px) {
+.container {
+  background-color: white;
+  color:black;
+  margin-top: 25%;
+}}
+
 
 /* Navbar */
 
+.fixed-top {
+  background-color: #F5F5DC;
+  padding: 1.5% 3%;
+}
 
 .navbar-brand {
     font-size: 3rem;
