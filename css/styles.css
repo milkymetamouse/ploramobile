@@ -119,9 +119,8 @@ img {
 @media (max-width: 450px) {
   .site-img {
     width: 350px;
-    height: 30%;
+    height: 50%;
     padding-top: 20%;
-    padding-left: 2%;
     position: absolute;
     z-index: 1;
     text-align: center;
